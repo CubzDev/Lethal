@@ -1,0 +1,2 @@
+# Lethal
+A discord bot.
